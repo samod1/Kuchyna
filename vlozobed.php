@@ -102,7 +102,11 @@ mysqli_close($conn);
 
 
 ?>
-
+<footer>
+    <div class="footer">
+        <p class="footer"><span>&copy;Samuel Domin 2020 - <?php echo date("Y"); ?></span></p>
+    </div>
+</footer>
 
 
 </body>

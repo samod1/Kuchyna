@@ -19,7 +19,14 @@
 <body>
 <? include "menu.php";?>
 <h1 style="font-size:10vw; text-align:center;">Vitajte!</h1>
+
+<footer>
+    <div class="footer">
+        <p class="footer"><span>&copy;Samuel Domin 2020 - <?php echo date("Y"); ?></span></p>
+    </div>
+</footer>
 </body>
+
 </html>
 
 

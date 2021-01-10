@@ -25,7 +25,7 @@
         {
             $nazov=$row["nazov"];
         }
-        echo $nazov ," je objdenanych ",$pocetObedov,"<br>";
+        echo $nazov ," je objdenanych <b>".$pocetObedov,"</b> <br>";
 
 
     }
@@ -37,5 +37,9 @@
 
 
     ?>
-
+    <footer>
+        <div class="footer">
+            <p class="footer"><span>&copy;Samuel Domin 2020 - <?php echo date("Y"); ?></span></p>
+        </div>
+    </footer>
 </html>
