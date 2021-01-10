@@ -1,8 +1,11 @@
 <html lang="sk-SK">
-
+<head>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
 <?php
 $conn="";
 include_once "config.php";
+include "menu.php";
 
 if ($_GET["idObed"] != "" && $_GET["edituj"] == "ano") {
 

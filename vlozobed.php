@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Vloz obedy</title>
-    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -70,10 +70,10 @@ include "menu.php";
                     <?php echo $row["cena"]."€";?>
                 </td>
                 <td>
-                    <a href="edituj.php?idObed=<?php echo $row["idObed"]; ?>&edituj=ano">Zadaj novy obed</a>
+                    <a style="color: #545454;" href="edituj.php?idObed=<?php echo $row["idObed"]; ?>&edituj=ano">Zadaj novy obed</a>
                 </td>
                 <td>
-                    <a href="alerg.php?idAlerg=<?php echo $row["idAlerg"]?>">Alergeny</a>
+                    <a style="color: #545454;" href="alerg.php?idAlerg=<?php echo $row["idAlerg"]?>">Alergeny</a>
                 </td>
             </tr>
 

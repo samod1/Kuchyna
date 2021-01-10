@@ -28,7 +28,7 @@ else
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
     <title>Alergen <?php echo $nazvoslovie; ?></title>
 </head>
 </html>

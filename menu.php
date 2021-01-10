@@ -1,7 +1,7 @@
 <head>
     <title>Pridaj obed</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
     <meta name="author" content="Samuel Domin"
     <meta name="keyword" content="HTML, CSS, JavaScript, PHP">
     <meta name="description" content="Semestralny projekt INTE">
@@ -15,13 +15,13 @@
     <link rel="manifest" href="icon/site.webmanifest">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="menu.css" type="text/css">
+    <link rel="stylesheet" href="css/menu.css" type="text/css">
 </head>
 <body>
 <header>
     <a  class="uvod" href="index.php"><h1 class="uvod">Semestralne zadanie</h1></a>
     <h2 class="uvod">Internetove technologie</h2>
-    <h3 class="uvod">Kuchyna</h3>
+    <h3 style="text-align: center;" class="uvod">Kuchyna</h3>
 </header>
 <ul>
     <li><a href="index.php"><i class="fa fa-home fa-fw"></i></a></li>
