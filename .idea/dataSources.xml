@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Studenthosting" uuid="fa9c9b91-406b-4a15-8d17-1222e5d7fe56">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>MariaDB</remarks>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://edudb-02.nameserver.sk:3307/4ideaspace_stude</jdbc-url>
+    </data-source>
+  </component>
+</project>
