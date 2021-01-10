@@ -15,6 +15,7 @@
     <link rel="manifest" href="icon/site.webmanifest">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="menu.css" type="text/css">
 </head>
 <body>
 <header>
@@ -28,6 +29,7 @@
     <li><a href="pocetobjednavok.php">POCET OBJEDNAVOK</a></li>
     <li><a href="vkladanie_alergenov.php">VKLADANIE ALERGENOV</a></li>
     <li><a href="http://www.4ideaspace.studenthosting.sk/contact.php">KONTAKT</a></li>
+    <li><a href="https://github.com/samod1/Kuchyna.git">ZDROJOVE KODY</a></li>
 
 </ul>
 <div id="reklama">
